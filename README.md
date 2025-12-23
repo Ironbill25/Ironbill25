@@ -6,6 +6,4 @@ I'm **IronBill25**, a solo dev that likes to make libraries and frameworks. Most
 <br>
 You might have seen me on [*Scratch*](https://scratch.mit.edu) as [*@IronBill05*](https://scratch.mit.edu/users/ironbill05); i also do some coding there.
 
-***Note***: This is a <mark>new account</mark>.
-
 > STATUS: Doing things on Scratch
